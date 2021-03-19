@@ -63,6 +63,7 @@ margin: 0 auto;
 
 main img, iframe{
     width: 100%;
+    border-radius: 45px;
 }
 .img1_p{
     margin-top: -10px;
