@@ -12,7 +12,7 @@ header{
     margin-top: 0px;
     text-align: center;
     padding-bottom: 5px;
-    box-shadow: 0px 35px 350px -35px rgb(1, 175, 255);
+    box-shadow: 0px 35px 350px -35px rgba(28, 81, 141, 0.842);
 }
 
 header img {
@@ -21,7 +21,7 @@ header img {
     object-fit: cover;
     text-align: right;
     border-radius: 220px;
-    box-shadow: 2px 10px 8px rgba(44, 200, 252, 0.842);
+    box-shadow: 2px 10px 8px rgba(28, 81, 141, 0.842);
     margin-top: 5px;
 margin-bottom: 10px;
 }
@@ -95,6 +95,6 @@ footer{
 text-align: center;
 color:whitesmoke;
 padding: 10px;;
-box-shadow: 0px 35px 350px 35px rgb(1, 175, 255);
+box-shadow: 0px 35px 350px 35px rgba(28, 81, 141, 0.842);
 }
 
